@@ -1,0 +1,19 @@
+.cron-content{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cron-content .cron-title{
+    font-size: 30px;
+}
+.cron-content .cron-text{
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    padding: 0px 15px;
+    border: 1px solid #d9d9d9;
+}
