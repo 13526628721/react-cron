@@ -1,0 +1,31 @@
+.cron-tab-row{
+    padding: 5px;
+}
+.cron-tab-row .cron-tab-row-number{
+    margin: 0px 4px;
+}
+.cron-show div{
+    margin-bottom: 10px;
+}
+.cron-contab{
+    width: 600px;
+    padding: 20px; 
+}
+.cron-contab .cron-tab-row .ant-radio-wrapper{
+    color: #5a5e66;
+}
+.cron-contab .cron-tab-row .ant-radio-wrapper-checked{
+    color: #1890ff;
+}
+.cron-contab-input{
+    margin-bottom: 10px;
+}
+.cron-contab .cron-collapse{
+    margin-bottom: 30px;
+}
+.cron-contab .cron-collapse .ant-collapse-item{
+    background-color: #f4f4f8;
+}
+.cron-contab .cron-collapse .cron-tab-pane-span{
+    padding: 0px 12px;
+}
