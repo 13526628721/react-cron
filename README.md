@@ -2,6 +2,10 @@
 
 ## 概述
     基于react和antd完成的一个创建cron的插件。核心代码在src/cron/index.js。
+    
+## demo
+
+[demo](https://13526628721.github.io/react-corn/dist/index)
 
 ## 本地安装引用
 ```js
